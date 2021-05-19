@@ -10757,19 +10757,6 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 /* Makin it mine. */
 
-#heart i::before {
-    content: 'Happy Birthday's';
-    position: absolute;
-    z-index: 9;
-    width: 100%;
-    top: 35%;
-    left: 0;
-    font-style: normal;
-    color: rgba(255, 255, 255, 0.8);
-    font-weight: 100;
-    font-size: 25px;
-    text-shadow: -1px -1px 0px rgba(7, 6, 6, 0.2);
-}
 
 
 /* 
